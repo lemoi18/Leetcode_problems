@@ -1,0 +1,14 @@
+/Users/larserik/python/Leetcode/obj/Debug/net9.0/Leetcode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larserik/python/Leetcode/obj/Debug/net9.0/Leetcode.AssemblyInfoInputs.cache
+/Users/larserik/python/Leetcode/obj/Debug/net9.0/Leetcode.AssemblyInfo.cs
+/Users/larserik/python/Leetcode/obj/Debug/net9.0/Leetcode.csproj.CoreCompileInputs.cache
+/Users/larserik/python/Leetcode/bin/Debug/net9.0/Leetcode.deps.json
+/Users/larserik/python/Leetcode/bin/Debug/net9.0/Leetcode.dll
+/Users/larserik/python/Leetcode/bin/Debug/net9.0/Leetcode.pdb
+/Users/larserik/python/Leetcode/obj/Debug/net9.0/Leetcode.dll
+/Users/larserik/python/Leetcode/obj/Debug/net9.0/refint/Leetcode.dll
+/Users/larserik/python/Leetcode/obj/Debug/net9.0/Leetcode.pdb
+/Users/larserik/python/Leetcode/obj/Debug/net9.0/ref/Leetcode.dll
+/Users/larserik/python/Leetcode/bin/Debug/net9.0/Leetcode
+/Users/larserik/python/Leetcode/bin/Debug/net9.0/Leetcode.runtimeconfig.json
+/Users/larserik/python/Leetcode/obj/Debug/net9.0/Leetcode.genruntimeconfig.cache
